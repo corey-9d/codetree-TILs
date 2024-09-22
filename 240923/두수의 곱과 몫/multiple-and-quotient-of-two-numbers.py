@@ -4,5 +4,5 @@ b = int(inp[1])
 c = (a * b)
 d = int((a / b))
 
-print("13 * 13 =",c)
-print("13 / 13 =",d)
+print(f"{a} * {b} =", c)
+print(f"{a} / {b} =", d)
