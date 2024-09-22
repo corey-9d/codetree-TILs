@@ -4,5 +4,5 @@ b = int(inp[1])
 c = (a * b)
 d = int((a / b))
 
-print("300 * 5 =",c)
-print("300 / 5 =",d)
+print("13 * 13 =",c)
+print("13 / 13 =",d)
