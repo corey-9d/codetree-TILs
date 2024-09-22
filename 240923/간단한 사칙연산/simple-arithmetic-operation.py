@@ -1,0 +1,12 @@
+inp = input().split(" ")
+a = int(inp[0])
+b = int(inp[1])
+sum = (a + b)
+min = (a - b)
+div = (a // b)
+div_1 = (a % b)
+
+print(sum)
+print(min)
+print(div)
+print(div_1)
