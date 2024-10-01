@@ -5,4 +5,4 @@ result = (a + n)
 
 for _ in range(n):
     print(result)
-    result += 6
+    result += n
